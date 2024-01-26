@@ -1,0 +1,23 @@
+body{
+    background-image: url(pantherwallpaper.jpg);
+    background-size: auto 100vh;
+    background-repeat: no-repeat;
+}
+.blue {
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+}
+
+.topic {
+    color: red;
+}
+
+
+p {
+    color: rgb(225, 29, 163);
+}
+
+#instalogo {
+    width: 50;
+    height: auto;
+}
